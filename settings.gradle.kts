@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "baekyoung-i"
 include(":app")
- 
+include(":core:common")
